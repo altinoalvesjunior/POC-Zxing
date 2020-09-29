@@ -1,9 +1,0 @@
-android.support.design.widget.TabLayout;obj/Debug/res/layout/tabbar.xml
-android.support.v7.widget.Toolbar;obj/Debug/res/layout/toolbar.xml
-FrameLayout;/Users/altinoalvesjunior/Downloads/QR-Code-Scanner-Xamarin.Forms-master/Demo/Demo.Android/obj/Debug/lp/24/jl/res/layout/zxingscanneractivitylayout.xml
-FrameLayout;/Users/altinoalvesjunior/Downloads/QR-Code-Scanner-Xamarin.Forms-master/Demo/Demo.Android/obj/Debug/lp/24/jl/res/layout/zxingscannerfragmentlayout.xml
-item;obj/Debug/res/values/styles.xml
-resources;/Users/altinoalvesjunior/Downloads/QR-Code-Scanner-Xamarin.Forms-master/Demo/Demo.Android/obj/Debug/lp/23/jl/res/values/strings.xml
-resources;obj/Debug/res/values/styles.xml
-string;/Users/altinoalvesjunior/Downloads/QR-Code-Scanner-Xamarin.Forms-master/Demo/Demo.Android/obj/Debug/lp/23/jl/res/values/strings.xml
-style;obj/Debug/res/values/styles.xml
