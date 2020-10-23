@@ -20,7 +20,7 @@ namespace Demo.Droid
 
             base.OnCreate(bundle);
 
-            global::Xamarin.Forms.Forms.Init(this, bundle);
+            global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
         }
         
